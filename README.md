@@ -1,5 +1,5 @@
 # Shakespr - AI-Powered Relocation Assistant
-> To be, or not to be, that is the question
+> To be, or not to be, that is the question.
 
 ## Overview
 Shakespr is a Telegram bot designed to help people make informed decisions about international relocation. It provides real-world cost of living data, lifestyle comparisons, and personalized recommendations to help users evaluate potential destinations.
@@ -19,7 +19,7 @@ Shakespr is a Telegram bot designed to help people make informed decisions about
 - AI-powered personalized recommendations
 
 ## Proposed System Architecture
-The following diagrams represent potential future architecture designs that we're considering. These are preliminary proposals and may evolve based on community feedback and project needs.
+The following diagrams represent potential future architecture designs that we're considering. These are preliminary proposals and may evolve based on feedback and project needs.
 
 ### Core System Components
 ```mermaid
