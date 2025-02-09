@@ -11,6 +11,7 @@ Shakespr is a Telegram bot designed to help users simulate life decisions, parti
 - 🔄 **Automatic Updates**: Daily data refresh for accuracy
 
 ## Project Structureshakespr/
+```
 ├── alembic/                      # Database migrations
 ├── config/                       # Configuration files
 │   ├── database.env             # Database credentials
@@ -33,6 +34,8 @@ Shakespr is a Telegram bot designed to help users simulate life decisions, parti
 ├── tests/                    # Test files
 ├── requirements.txt          # Python dependencies
 └── README.md                # Project documentation
+```
+
 ## Database Structure
 
 ### User Database (user_data)
